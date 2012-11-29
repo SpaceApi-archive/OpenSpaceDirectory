@@ -4,6 +4,7 @@
     "ACKspace": "https://ackspace.nl/status.php",
     "Beta-Space": "http://status.kreativitaet-trifft-technik.de/status.json",
     "Bitlair": "https://bitlair.nl/statejson.php",
+    "C3D2 HQ": "https://www.hq.c3d2.de/spaceapi.json",
     "Fabelier": "http://status.fabelier.org/status.json",
     "Farset Labs": "http://unit1.farsetlabs.org.uk/spaceapi/space/",
     "FIXME Hackerspace": "https://fixme.ch/cgi-bin/spaceapi.py",
