@@ -64,7 +64,7 @@
     "base48": "http://48.io/status/",
     "Lamba Labs": "http://status.lambalabs.org/public.php",
     "OpenLab": "http://api.openlab-augsburg.de/data.json",
-    "C3D2 HQ": "http://spaceapi.net/cache/C3D2+HQ",
+    "C3D2": "https://c3d2.de/spaceapi.json",
     "RaumZeitLabor": "http://spaceapi.net/cache/RaumZeitLabor",
     "Hackspace Siegen": "http://spaceapi.hasi.it/",
     "shackspace - stuttgart hackerspace": "http://shackspace.de/spaceapi-query-0.13",
