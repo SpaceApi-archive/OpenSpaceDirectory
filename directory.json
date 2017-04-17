@@ -89,6 +89,7 @@
   "Maschinendeck":"http://state.maschinendeck.org/spaceapi.json",
   "Maschinenraum":"http://api.maschinenraum.tk/status.json",
   "Matehackers":"http://mateaberto.herokuapp.com/status.json",
+  "Melbourne Makerspace":"http://spaceapi.net/new/space/melbourne_makerspace/status/json",
   "MetaMeute":"https://status.metameute.de/spaceapi.json",
   "MidsouthMakers":"http://midsouthmakers.org/spaceapi/",
   "Milwaukee Makerspace":"http://apps.2xlnetworks.net/milwaukeemakerspace/",
