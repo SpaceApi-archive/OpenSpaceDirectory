@@ -67,7 +67,7 @@
     "C3D2 HQ": "http://spaceapi.net/cache/C3D2+HQ",
     "RaumZeitLabor": "http://spaceapi.net/cache/RaumZeitLabor",
     "Hackspace Siegen": "http://spaceapi.hasi.it/",
-    "shackspace - stuttgart hackerspace": "http://shackspace.de/spaceapi-query-0.13",
+    "shackspace": "https://api.shackspace.de/v1/spaceapi",
     "Hackspace Siegen, HaSi e.V.": "http://spaceapi.hasi.it/",
     "Netzladen": "http://netzladen.org/api/status.json",
     "Laboratorio Hacker de Campinas": "http://lhc.net.br/spacenet.json"
