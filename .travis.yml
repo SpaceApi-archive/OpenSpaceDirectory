@@ -1,0 +1,8 @@
+os: linux
+dist: trusty
+sudo: required
+language: python
+install: "pip install demjson requests"
+script:
+    - "jsonlint --strict ./directory.json"
+    - "python update_spaces.py"
